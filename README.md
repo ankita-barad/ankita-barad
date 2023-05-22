@@ -1,4 +1,4 @@
-![Alt text](./hero.svg)
+![Alt text](./hero.gif)
 
 
 <h1 align="center">Hi 👋, I'm Ankita Barad</h1>
