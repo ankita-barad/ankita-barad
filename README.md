@@ -25,8 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita-barad" alt="ankita-barad" /></p>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankita-barad" alt="ankita-barad" /></a> </p> <br />
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ankita-barad" alt="ankita-barad" /> </p>
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankita-barad)](https://github.com/ankita-barad/github-readme-stats)
 
