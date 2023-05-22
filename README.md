@@ -21,9 +21,9 @@
 
   </div>
 
-[![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankita-barad)](https://github.com/ankita-barad/github-readme-stats)
+[![Ankita's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ankita-barad)](https://github.com/ankita-barad/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita-barad)](https://github.com/ankita-barad/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankita-barad)](https://github.com/ankita-barad/github-readme-stats)
 
 <!-- Here are some ideas to get you started:
 
