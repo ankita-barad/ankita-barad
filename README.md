@@ -1,4 +1,6 @@
+<div align="center">
 <img align="center" src="./hero.gif">
+</div>
 
 <h1 align="center">Hi 👋, I'm Ankita Barad</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer from India</h3>
