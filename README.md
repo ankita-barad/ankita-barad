@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ankita Barad</h1>
-<h3 align="center">An Aspiring Full Stack Web Developer from India</h3>
+<h3 align="center">An Aspiring Full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning Full Stack Web Development
 - 👨‍💻 All of my projects are available at [Portfolio](https://ankita-barad.github.io/)
