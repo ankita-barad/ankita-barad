@@ -21,7 +21,7 @@
 
   </div>
 
-[![Ankita's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ankita-barad)](https://github.com/ankita-barad/github-readme-stats)
+[![Ankita's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ankita-barad)]
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita-barad" alt="ankita-barad" /></p>
 
