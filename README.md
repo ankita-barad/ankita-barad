@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=ankita-barad" alt="ankita-barad" /> </p>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankita-barad)](https://github.com/ankita-barad/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankita-barad)]
 
 <!-- Here are some ideas to get you started:
 
