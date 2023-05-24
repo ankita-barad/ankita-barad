@@ -6,7 +6,7 @@
 <h3 align="center">An Aspiring Full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning Full Stack Web Development
-- 👨‍💻 All of my projects are available at [Portfolio](https://ankita-barad.github.io/)
+- 👨‍💻 All of my projects are available at [https://ankita-barad.github.io/](https://ankita-barad.github.io/)
 - 💬 Ask me about **HTML | CSS | JavaScript | Node Js | Express.js | MongoDB | Mongoose**
 - 📫 How to reach me **ankitabarad2111@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lVQeTKDmLPowzpq9ToLy0H2qhgEbSatP/view)
